@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe discourse of the most haynous and traytorlike fact of Thomas Appeltree for which hee shoulde haue suffred death on Tuisday the one and twentith of Iulie last: wherin is set downe his confession. Whereunto is annexed, the report of the message sent to the place of execution from hir most excellent Maiestie, by the right honourable Sir Christopher Hatton Knight, vizchaberlain to hir highnesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1579</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20757</idno>
+            <idno type="STC">STC 714</idno>
+            <idno type="STC">ESTC S119173</idno>
+            <idno type="EEBO-CITATION">99854380</idno>
+            <idno type="PROQUEST">99854380</idno>
+            <idno type="VID">19798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 948:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe discourse of the most haynous and traytorlike fact of Thomas Appeltree for which hee shoulde haue suffred death on Tuisday the one and twentith of Iulie last: wherin is set downe his confession. Whereunto is annexed, the report of the message sent to the place of execution from hir most excellent Maiestie, by the right honourable Sir Christopher Hatton Knight, vizchaberlain to hir highnesse.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Henry Bynneman,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>Anno Domini 1579.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Issued with an edition of "A true report of the .. message of hir maiestie, sent by sir C. Hatton" (without marginal notes: STC 7602; with marginal notes: STC 7602.5) as part 2.</note>
+                  <note>Part 2 not present in Lambeth Palace Library copy.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Appletree, Thomas.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19798:1"/>
+            <pb facs="tcp:19798:1" rendition="simple:additions"/>
+            <p>A briefe Diſcourſe of the moſt haynous and traytorlike fact <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Thomas Appeltree: <hi>For which hee ſhoulde haue ſuffced Death on Tuiſday the one and twentith of Iulie laſt: wherin is ſet downe his Confeſſion.</hi>
+            </p>
+            <p>Wherevnto is annexed, the Report of the meſſage ſent to the place of execution from hir moſt excellent Maieſtie, by the right ho<g ref="char:EOLhyphen"/>nourable <hi>Sir Christopher Hatton</hi> Knight, Vizchamberlain to hir highneſſe.</p>
+            <figure>
+               <figDesc>printer's device of the brazen serpent, passed to Henry Bynneman in 1574-75</figDesc>
+            </figure>
+            <p>AT LONDON, Imprinted by Henry Bynneman. <hi>Anno Domini.</hi> 1579.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:19798:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or as much as the nature of man is affected to listen after newes, by the report whereof ei<g ref="char:EOLhyphen"/>ther the minde is delighted, or elſe ſtricken with fear, I haue thought it conuenient to pu<g ref="char:EOLhyphen"/>bliſh vnto all the worlde, and namely to all good and godly ſubiects, a thing of no ſmall importaunce, verie ſtraunge, and not ſo ſtrange, as moſt certaine true. May it therfore pleaſe thee to peruſe this little booke, wherin as in a loking glaſſe, thou ſhale beholde to thy great comfort, the verie effectes of iustice, iustlie executed againſt an offender, wor<g ref="char:EOLhyphen"/>thilie condemned to death: and further, thou ſhalt to thy ioye be<g ref="char:EOLhyphen"/>holde the rare and ſingular mercies offered vnto him, that had moſt grieuouſlie treſpaſſed againſt the royal eſtate of this noble realme of England, euen by the Queenes moſt excellent maiestie, for whoſe proſperitie all faithful heartes are bound continuallie to praie to the Almightie, who guide and gouerne hir, high<g ref="char:EOLhyphen"/>neſſe with his holie ſpirite, poure vpon hir the euerla<g ref="char:EOLhyphen"/>ſting deawes of his heauenlie grace, proſper hir in all hir affaires, graunt hir long life, health, peace, and quietneſſe of bodie and minde, where vnto all true harted ſubiectes vouch<g ref="char:EOLhyphen"/>ſafe with me to ſay. <hi>AMEN.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_random_shooting">
+            <pb facs="tcp:19798:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He. 17. day of Iuly this preſent yere of our Lord God. 1579. the Quéenes moſt excellent Maieſtie being on the riuer of Thames, betwixt hyr high<g ref="char:EOLhyphen"/>neſſe Manour of Grenewich, and Detforde, in hir priuie Barge, accompanied with <hi>Mounſier Schemere</hi> the French Embaſſador, the Earle of Lincolne, and M. Vizchamberlaine. &amp;c. with whome ſhée entred diſcourſe about waightie affairs: it chaunced that one <hi>Thomas Appeltree</hi> a yong man and ſeruant to M. Henrie Carie, with .ii. or .iii. children of hir Maieſtes Chappel, &amp; one other named <hi>Bar<g ref="char:EOLhyphen"/>nard Acton,</hi> being in a boate on the Thames, rowing vp &amp; down betwixt the places aforenamed, the aforeſaid <hi>Thomas Appeltree</hi> had a Caliuer or Harquebuſh, which he had thrée or foure times diſcharged with bullet, ſhooting at randone verie raſhly, who by great miſfortune ſhot one of the water men (being the ſeco<g ref="char:cmbAbbrStroke">̄</g>d man next vnto the bales of the ſaid Barge, labouring with his Dare, which ſate within ſix foot of hir highneſſe) cleane through both his armes: the blow was ſo great and grieuous, that it moued him out of his place, and forced him to crie and ſcritche out piteouſly, ſuppoſing himſelf to be ſlaine, and ſaying he was ſhot thorow the body. The man bléeding abundantly, as though he had had a hu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dred daggers thruſt into him, the Quéenes Maieſty ſhewed ſuch noble courage as is moſt wonderfull to be hearde and ſpoken of, for beholding hym ſo maymed, and bléeding in ſuche forte, ſhe neuer baſhed thereat, but ſhe wed effectually a prudent and mag<g ref="char:EOLhyphen"/>nanimous heart, &amp; moſt curteouſly comforting the poore man, ſhe bad him be of good cheare, and ſayd he ſhoulde want nothing that might be for his eaſe, commaunding him to be couered till ſuch time as he came to the ſhore, til which time he lay bathing in his owne bloud, which might haue bene an occaſion to haue terrifyed the eies of the beholders. But ſuch and ſo great was the courage and magnanimitie of our dread and ſoueraigne Ladie, that it ne<g ref="char:EOLhyphen"/>uer quayled. To be ſhort, this ſayd <hi>Thomas Appeltree</hi> and the reſt were apprehended and brought before hir honorable Counſel who with great grauitie and wiſedom imployed their times very carefully, &amp; with gret diligence examined the ſayd <hi>Appeltree</hi> and
+<pb facs="tcp:19798:3"/>his companions, and finding the caſe moſt haynous and wicked, iuſtly pronounced againſt him the ſentence of Death, and com<g ref="char:EOLhyphen"/>mitted him to the Marſhalſea in Southwarke, from whence the Tuiſday following he was brought throughe the Citie with the Knight Marſhals men, lead vp to the Tower hill, and ſore Rad<g ref="char:EOLhyphen"/>cliffe, vp to Blacke wall, and ſo downe to the water ſide, where was a Gibet ſet vp directly placed betwixt Deſforde and Gréen<g ref="char:EOLhyphen"/>witch, for the execution of this malefactour, who in téede very pitifully bewayled the offence he had committed, and as well in priſon as by the way prepared himſelfe very penitentely and wil<g ref="char:EOLhyphen"/>lingly to offer his bodie to the death, loathing this world and the pleaſures of the ſame, and conſtantly by faith flette unto <hi>IESVS CHRIST,</hi> affirming that without him there was no ſaluatien, and often ſayd and proteſted very vehemently, that Ieſus Chriſt the ſonne of the liuing God, was his only hope &amp; co<g ref="char:cmbAbbrStroke">̄</g>forte, in whoſe pretious bloude he was purged and made cleane, and in him by fayth he was fully aſſured, that his ſinnes (wer they neuer ſo ma<g ref="char:EOLhyphen"/>ny in number) ſhould be fréely for giuen and forgotten: ſuch was his immoueable conſtancie, &amp; ſo ſtrong he was in <hi>CHRIST IE<g ref="char:EOLhyphen"/>SVS,</hi> that although he confeſſed his imperfection to be ſuch and ſo great that of himſelf he was not worthy to lift vp his eles to hea<g ref="char:EOLhyphen"/>uen, yet by faith he was aſſured that though his life were wicked and worthye the ſentence of euerlaſting damnation, his Lorde <hi>IESVS CHRIST</hi> his mercifull ſauiour had for him ſatiſfied the lawe, pacifyed Gods indignation, made an agréement betwixt God and him, to whome he was by grace reconciled, conceyued and borne again, not according to the fleſh, but in ſpirit by grace, in the precious death and blou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhedding of his Mediator, and in him aſſured, that neyther ſin, death nor all the power of hel ſhould harme him, but that his faith firmly fixed in that mightie conque<g ref="char:EOLhyphen"/>ror that had ouerthrowen Sinne, ſubdued Death, and conuinced Sathan, ſhould be ſufficient for him to combat and maintayne fight againſt his enimies, which traueled for the vtter ſpoyle and deſtruction of his body and ſoule, ouer whome in Chriſt his hope perſuaded him to triumph. But when he came to the place of exe<g ref="char:EOLhyphen"/>cution, he fell on his knées, and deſired all the people to pray with
+<pb facs="tcp:19798:3"/>him, where he very deuoutly and with a conſtant courage prayed in this wiſe: <hi>O bountifull Ieſu, O ſweete leſu. &amp;c.</hi> a neceſſarie prayer to be ſayde at the houre of Death: after this he ſayde the Lordes prayer, &amp; then diſcourſed very godly, that the Lord Ieſus Chriſt was the rocke whereon he layde his foundation, and that his only death and paſſion was the meane to waſh away his ſin<g ref="char:EOLhyphen"/>nes and offences, and that he for him and al other ſat on the right hande of his heauenlie father, pleading and making continuall interceſſion, repreſenting his bloudy and paineful wounds which neuer coulde be dryed vp, which being ſéene in the eyes of his glo<g ref="char:EOLhyphen"/>rious maieſtie, his anger was conuerted to loue: his furie, to kindeneſſe and fatherlie pitie. Thus very godly he purpoſed to finiſh his miſerable and wretched lyfe, and ſo prepared himſelf to aſcende and goe vp the ladder, and being on the ſame, he tourned himſelf, and ſpake to the people as followeth: Good people I am come hither to die, but GOD is my iudge, I neuer in my lyfe intended hurt to the Quaenes moſt excellent Maieſty, nor meant the harme of any creature, but I pray to God with all my heart, long to proſper and kéepe hir highneſſe in health, who bleſſe and defende hir from all perils and dangers, who proſper hir in al hir affaires, and bleſſe hir moſt honorable counſel, giuing them grace to doe all things to the glorie of GOD and the benefite of this realme: But of all things, I am moſt ſorie for my offence, and wofully bewaile the ſame: and more, I am penitent and ſory for my good mayſter, M. Henrie Carie, who hath bene ſo grieued for my fault, ſuffering rebuke for the ſame: I woulde to God I had neuer bene borne that haue ſo grieuouſly offended him. And with that the teares guſht out of his eyes very faſt. This ſayd, he per<g ref="char:EOLhyphen"/>ſuaded al men to ſerue God and to take an enſample by him, and euery night and morning moued the deuoutely to ſay the Lordes prayer. And as the executioner as one gréedy of his pray, had put the roape about his neeke, the people cried, ſtay, ſtaye, ſtaye, and with that came the right honorable ſir <hi>Chriſtopher Hatton</hi> Viz<g ref="char:EOLhyphen"/>chamberlayne to hir highneſſe, who enquired what he had con<g ref="char:EOLhyphen"/>feſſed, and being certified as is before expreſſed, he vailed his bo<g ref="char:EOLhyphen"/>net, and declared that the Quéenes maieſtie had ſent him thither
+<pb facs="tcp:19798:4"/>both to make the cauſe opento them how haynous and gréeuous the offence of the ſaide <hi>Thomas Appeltree</hi> was, and further to ſignifie to him hir gratipus pleaſure: &amp; ſo continued his meſſage, as ye may read it priuted by it ſelf, and annexed to this diſcourſe. Which when he had declared, the hangman was commanded to take the roape from his necke, cleane contrarie to his expecta<g ref="char:EOLhyphen"/>tion, &amp; I think (as was ſéene to the people) ſory to loſe his pray: but whether it were ſo or not, whether that <hi>Appeltree</hi> had cauſe to be ioyful or no, I leaue to your iudgements, who being come downe from the ladder, receiued his pardon, and gaue GOD and the Prince praiſe, for ſo great a benefit as he had by hir moſt gra<g ref="char:EOLhyphen"/>tious bountie receiued. This done, M. Vizchamberlaine ſayde: Good people pray for the Quéenes maieſtie, and then was this prayer ſayde, which is vſually readde (for the preſeruation of hir Maieſtie) in the church:</p>
+            <p>
+               <hi>O almightie and euerliuing God, the Lord of Lords, and king of kings, which doſt from thy throne beholde all the dwellers of the earth, moſt hartily we beſeech thee with thy fauor to behold our moſt gracious ſoueraigne Ladie Queene Elizabeth. &amp;c.</hi>
+            </p>
+            <p>Wherevnto all the people ioyefully accorded to ſaye <hi>AMEN,</hi> crying, God ſaue the Quéene, and caſting vp their cappes.</p>
+            <p>Thus was the dead man reſtored to lyfe, and brought backe to the Marſhalſea againe, euen as he was led thence to the place of execution, where he by the way moſte ioyfullye prayed for the ſecuritie of the Quéenes Maieſtie.</p>
+            <p>Loe thus good reader haſt thou heard diſcourſed vnto thée, the offence of <hi>Thomas Appeltree,</hi> iuſtly condemned for his treſpaſſe to die the death, and moſt gratiouſly (notwithſtanding the great<g ref="char:EOLhyphen"/>neſſe of his crime) by the ſingular mercy and bountie of our dread and ſoueraigne Ladie Quéene <hi>EIIZABETH</hi> preſerued, for the which cauſe and al others, like faithful and true ſubiects ſtrongly armed with an earneſt loue, let vs not ceaſe to pray to y<hi rend="sup">e</hi> Almigh<g ref="char:EOLhyphen"/>tie with loyal &amp; faithfull hearts for hir highneſſe ſafegarde, who with his mightie and outſtretched hande protect and deliuer hyr as he hath done wonderfully from the handes of all hir enimies, and ſo mercifully loke vpon vs hir ſubiectes, that to our continual
+<pb facs="tcp:19798:4"/>ioyes, the aduauncement of ſinne, religio<g ref="char:cmbAbbrStroke">̄</g> and vertue, the fal and ouerthrow of all iniquitie, we may poſſeſſe the preſence of this our royall virgin Quéene euen to the comming of Ieſus Chriſte in the cloudes of the ſkies: wherevnto let all that feare God and loue the Quéenes maieſtie from the bottome of their hartes, ſay <hi>AMEN.</hi>
+            </p>
+            <p>The night before he ſhould ſuffer, he wrote this prayer follo<g ref="char:EOLhyphen"/>wing with his own hand, and on the backſide of the paper wher<g ref="char:EOLhyphen"/>in the ſame was ſet downe, he wrote theſe wordes:</p>
+            <p>
+               <hi>To the Queenes moſt excellent Maieſtie, whom I beſeech God long to continue ouer the Realme of England in proſperous feli<g ref="char:EOLhyphen"/>citie.</hi>
+            </p>
+            <p>This was the title.</p>
+            <div type="prayer">
+               <head>The humble prayer of Thomas Appeltree, yeelding himſelfe to die, as innocent from <hi>any pretended cauſe, as the Infant this night borne.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg>S I here praie earneſtlye to God the Father, who by his diuine prouidence hath ordained mee to come to this place, I do not pray only for my ſelf, but alſo for the whole Church, eſpecially ſuch as be perſecuted for thy word: O Lord graunt vnto them, that whether it be by death or life, they may glorifie thy name to their liues end: be merciful vnto this Church of England and Ireland, we beſeech thee good Lord, and preſerue euery part and member of the ſame, eſpecially thy ſeruaunt ELI<g ref="char:EOLhyphen"/>ZABETH our moſt gracious ſoueraine Queenes graunt hir al ſuch giftes as be needefull for ſo high a calling, to the aduauncemente of thy glorie, and benefit of this comon wealth, to the eſtabliſhing of a perfect gouernement of thy church, according to the rule of thy bleſſed worde, to the rooting out of all ſuperſtition and reli<g ref="char:EOLhyphen"/>ques of Antichriſt, to the gouerning of hir ſubiectes in all peace &amp; tranquilitie: defende hir ô Lord from all conſpiracies, treaſons &amp;
+<pb facs="tcp:19798:5"/>wing hyr authoritie to come from thy heauenlye maieſtie, they may with obedient harts humbly obey hir in thee and for thee O Lord preſerue the whole counſayle, and the Magiſtrates of the Realme, that being lightned by thy holy ſpirit, they may defende thy truthe, ſuppreſſe wickedneſſe, and maintaine equitie: beholde all the preachers and paſtours of the whole world, bleſſe their la<g ref="char:EOLhyphen"/>bours, increaſe the number of the, place ouer euery Church a pain<g ref="char:EOLhyphen"/>full watchman, and remoue all idle lubbers, confouud the power of Antichriſt, and turne the hartes of the people, that they maye be obedient to thy tructh Bleſſed be the two Vniuerſities of Ox<g ref="char:EOLhyphen"/>ford and Cambridge, with all the Scholes of learning, and the ſtu<g ref="char:EOLhyphen"/>dentes in the ſame: beholde good Lord all thoſe that be afflicted with any kinde of croſſe, that they may profite by thy correction in newneſſe of life, alſo beſeeching God to ſende hir maieſtie no worſe nor diſobedient ſubiect, than in my hearte and minde (God is my witneſſe) til this innocent cauſe did chaunce towardes me, I haue bin, whiche is the firſt offence that euer I committed. And ſo, in whoſe name I was baptiſed, &amp; in whom only I hope to be ſaued at the day of iudgement, I truſt the Lord will receyue my Soule into heauen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
